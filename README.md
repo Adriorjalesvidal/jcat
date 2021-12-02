@@ -7,5 +7,6 @@ A ultra simple java version of netcat
 
 <h2>Example</h2>
 <p>To run the jar file, use </p>
-java -jar jcat.jar
+java -jar jcat.jar -l 81
 
+<p>This will open the port 81 and listen for connections</p>
